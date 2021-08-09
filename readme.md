@@ -1,3 +1,3 @@
-# going to learn git
+# gravity
 
-qwe
+gravity website design
