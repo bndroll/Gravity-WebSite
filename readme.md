@@ -3,5 +3,5 @@
 Gravity website design
 
 ### Technology stack 
-- HTML 5
-- CSS 3, SCSS
+- HTML5
+- CSS3, SCSS
